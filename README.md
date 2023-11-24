@@ -6,10 +6,6 @@
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 
-
-
-<br/>
-<br/><br/>
 <!--
 **yeonjin719/yeonjin719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
