@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Yeonjin's%20github)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjin719&show_icons=true&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kyj030719)](https://solved.ac/kyj030719)
 
