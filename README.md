@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%World!)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kyj030719)](https://solved.ac/kyj030719)
 <br/>
 <br/><br/>
 <!--
