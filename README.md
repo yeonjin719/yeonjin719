@@ -1,7 +1,14 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Yeonjin's%20github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjin719&show_icons=true&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kyj030719)](https://solved.ac/kyj030719)
+
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+
+
+
 <br/>
 <br/><br/>
 <!--
