@@ -9,6 +9,8 @@
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 <!--
