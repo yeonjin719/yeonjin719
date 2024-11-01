@@ -5,6 +5,8 @@
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
   ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+  ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+  ![react]("https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white")
   
 ### Used at least Once
   ![swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
@@ -12,7 +14,6 @@
   ![elastic](https://img.shields.io/badge/elastic-005571.svg?&style=for-the-badge&logo=elastic&logoColor=white)
   <br>
   ![kibana](https://img.shields.io/badge/kibana-005571.svg?&style=for-the-badge&logo=kibana&logoColor=white)
-  ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
   ![nodedotjs](https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
