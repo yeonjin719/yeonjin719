@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=white:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Welcome%20to%20Yeonjin's%20GitHub%20👋&fontSize=35&fontAlignY=40&fontAlign=65&textColor=white" width="100%">
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=white:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Welcome%20to%20Yeonjin's%20GitHub%20👋&fontSize=35&fontAlignY=40&fontAlign=65&textColor=white&refresh=1" width="100%">
+
 ### Stack
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
