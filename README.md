@@ -25,7 +25,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj030719)](https://solved.ac/kyj030719/)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeonjin719)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=yeonjin719&row=2&column=4)
   
 
   <a href="https://github.com/yeonjin719/github-readme-stats">
