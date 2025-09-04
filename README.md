@@ -1,7 +1,26 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=white:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Welcome%20to%20Yeonjin's%20GitHub%20👋&fontSize=35&fontAlignY=40&fontAlign=65&fontColor=d3d3d3&refresh=1" width="100%">
 
+<div align="center"> 
+  <img
+    src="https://render.gitanimals.org/lines/yeonjin719?pet-id=751302009622993375"
+    width="30%"
+    height="200"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/yeonjin719?pet-id=751302009622993374"
+    width="30%"
+    height="200"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/yeonjin719"
+    width="30%"
+    height="200"
+  />
+</div>
+
   ## 🖥️  Stack  🖥️
+  
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
   ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
