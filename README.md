@@ -84,17 +84,17 @@
     </tr>
     <tr>
       <td>2024.09 ~ 2024.12</td>
-      <td>UMC 미니 프로젝트 <a href="https://github.com/SMUMC-7th/Team-C-FE"><b>청년돋움</b></a></td>
+      <td><a href="https://github.com/SMUMC-7th/Team-C-FE"><b>청년돋움</b></a></td>
       <td>청년 맞춤 정책 추천 서비스</td>
       <td>[FE Leader] Frontend</td>
     </tr>
     <tr>
       <td>2024.12 ~ 2025.02</td>
-      <td>UMC 데모데이 프로젝트 <a href="https://github.com/QASTUDIODEV"><b>QASTUDIO</b></a></td>
+      <td><a href="https://github.com/QASTUDIODEV"><b>QASTUDIO</b></a></td>
       <td>시나리오 기반 QA 자동화 서비스</td><td>[FE Leader] Frontend</td></tr>
     <tr>
       <td>2025.06 ~ 2025.08</td>
-      <td>UMC 데모데이 프로젝트 <a href="https://github.com/WithTime12/WithTimeFE"><b>WithTime</b></a></td>
+      <td><a href="https://github.com/WithTime12/WithTimeFE"><b>WithTime</b></a></td>
       <td>AI기반 데이트코스 추천 서비스</td>
       <td>[FE Leader] Frontend</td>
     </tr>
