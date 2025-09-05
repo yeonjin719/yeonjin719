@@ -102,7 +102,7 @@
       <td>2025.06 ~</td>
       <td><a href="https://github.com/2025-OSDC"><b>Colbrush</b></a></td>
       <td>색맹 컬러 접근성 개선 라이브러리(오픈소스)</td>
-      <td>Frontend OSS Developer</td></td>
+      <td>Frontend, OSS Developer</td></td>
     </tr>
   </table>
   
