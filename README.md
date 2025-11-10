@@ -1,13 +1,3 @@
-<!-- Hero Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=230&section=header" width="100%"/>
-</div>
-
-<!-- Animated Pet -->
-<div align="center">
-  <img src="https://render.gitanimals.org/lines/yeonjin719?pet-id=751302009622993374" width="100%" height="190" alt="GitAnimals Animation"/>
-</div>
-
 <!-- Intro -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="110" height="110" alt="Waving Hand"/>
@@ -146,11 +136,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeonjin719&theme=github_dark" width="33%" alt="Stats Card"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=yeonjin719&bg_color=00000000&show_icons=true&icon_color=4C8EDA&title_color=82AAFF&text_color=D8DEE9" width="50%" alt="Additional Stats"/>
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
