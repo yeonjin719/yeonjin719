@@ -118,7 +118,7 @@
     </tr>
     <tr>
       <td>2025.06 ~ 2025.11</td>
-      <td><a href="https://github.com/2025-OSDC"><b>Colbrush</b></a></td>
+      <td><a href="https://github.com/2025-OSDC/colbrush"><b>Colbrush</b></a></td>
       <td>색맹 컬러 접근성 개선 라이브러리 (오픈소스)</td>
       <td>Frontend, OSS Developer</td>
     </tr>
