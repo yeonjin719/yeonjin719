@@ -59,8 +59,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=discord,figma,notion&perline=4" alt="Collaboration Tools" height="52"/></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=npm,github&perline=2" alt="Open Source Tools" height="52"/></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cypress&perline=1" alt="Cypress Icon" height="52"/>
-        <img src="https://skills.syvixor.com/api/icons?i=playwright" alt="Playwright Icon" height="52"/>
+        <img src="https://skills.syvixor.com/api/icons?i=playwright,cypress&perline=2" alt="Playwright Icon" height="52"/>
       </td>
     </tr>
   </table>
