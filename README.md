@@ -134,5 +134,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjin719&theme=github_dark" width="33%" alt="Repos Per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeonjin719&theme=github_dark" width="33%" alt="Stats Card"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeonjin719&bg_color=00000000&show_icons=true&icon_color=4C8EDA&title_color=82AAFF&text_color=D8DEE9" width="50%" alt="Additional Stats"/>
+  
+  ![Yeonjin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yeonjin719&bg_color=000000&icon_color=4C8EDA&title_color=82AAFF&text_color=D8DEE9)
+
 </div>
