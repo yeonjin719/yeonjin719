@@ -107,7 +107,7 @@
       <td>2024.12 ~ 2025.02</td>
       <td><a href="https://github.com/QASTUDIODEV"><b>QASTUDIO</b></a></td>
       <td>시나리오 기반 QA 자동화 서비스</td>
-      <td>[FE Leader] Frontend</td>
+      <td>Frontend</td>
     </tr>
     <tr>
       <td>2025.06 ~ 2025.08</td>
@@ -120,6 +120,12 @@
       <td><a href="https://github.com/2025-OSDC/colbrush"><b>Colbrush</b></a></td>
       <td>색맹 컬러 접근성 개선 라이브러리 (오픈소스)</td>
       <td>Frontend, OSS Developer</td>
+    </tr>
+    <tr>
+      <td>2025.12 ~ </td>
+      <td><a href="https://github.com/UMC-PRODUCT/umc-product-web"><b>UMC WEB Product</b></a></td>
+      <td>UMC 연합동아리 Recruiting Service</td>
+      <td>Frontend</td>
     </tr>
   </table>
 </div>
