@@ -9,7 +9,7 @@
 
 <!-- Highlight Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Leader-E34C26?style=for-the-badge&logo=react&logoColor=fff" alt="Frontend Leader Badge"/>
+  <img src="https://img.shields.io/badge/Frontend-E34C26?style=for-the-badge&logo=react&logoColor=fff" alt="Frontend Leader Badge"/>
   <img src="https://img.shields.io/badge/UMC%20WEB-3572A5?style=for-the-badge&logo=google-chrome&logoColor=fff" alt="UMC WEB Badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-DA5B0B?style=for-the-badge&logo=python&logoColor=fff" alt="Data Science Badge"/>
   <img src="https://img.shields.io/badge/OSS%20Lover-A371F7?style=for-the-badge&logo=github&logoColor=fff" alt="OSS Badge"/>
