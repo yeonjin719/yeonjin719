@@ -127,6 +127,12 @@
       <td>UMC 연합동아리 Recruiting Service</td>
       <td>Frontend</td>
     </tr>
+    <tr>
+      <td>2025.12 ~ </td>
+      <td><a href="https://github.com/2026-Capstone-Project/FrontEnd"><b>Capstone Project - Calio</b></a></td>
+      <td>AI 개인 비서 웹 서비스</td>
+      <td>Frontend</td>
+    </tr>
   </table>
 </div>
 
