@@ -125,7 +125,7 @@
       <td>2025.12 ~ </td>
       <td><a href="https://github.com/UMC-PRODUCT/umc-product-web"><b>UMC WEB Product</b></a></td>
       <td>UMC 연합동아리 Recruiting Service</td>
-      <td>Frontend</td>
+      <td>[FE Leader] Frontend</td>
     </tr>
     <tr>
       <td>2025.12 ~ </td>
