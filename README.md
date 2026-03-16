@@ -80,7 +80,7 @@
     <tr><td>2024.06</td><td>ADsP 취득</td></tr>
     <tr><td>2024.09 ~ 2025.02</td><td>🌐 UMC 7기 WEB 파트 챌린저</td></tr>
     <tr><td>2025.03 ~ 2025.08</td><td>🌐 UMC 8기 WEB 중앙/교내 파트장</td></tr>
-    <tr><td>2025.09 ~ 현재</td><td>🌐 UMC 9기 WEB 중앙/교내 파트장</td></tr>
+    <tr><td>2025.09 ~ 2026.02</td><td>🌐 UMC 9기 WEB 중앙/교내 파트장</td></tr>
     <tr><td>2025.11.11</td><td>🏅 오픈소스 개발자대회 <b>에프에이리눅스(주) 대표상 수상</b></td></tr>
   </table>
 </div>
@@ -122,7 +122,7 @@
       <td>Frontend, OSS Developer</td>
     </tr>
     <tr>
-      <td>2025.12 ~ </td>
+      <td>2025.12 ~ 2026.03</td>
       <td><a href="https://github.com/UMC-PRODUCT/umc-product-web"><b>UMC WEB Product</b></a></td>
       <td>UMC 연합동아리 Recruiting Service</td>
       <td>[FE Leader] Frontend</td>
