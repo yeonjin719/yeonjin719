@@ -25,6 +25,10 @@
   <a href="https://velog.io/@yeonjin719" target="_blank">
     <img src="https://img.shields.io/badge/Velog-yeonjin719-20C997?style=flat&logo=velog&logoColor=fff" alt="Velog Badge"/>
   </a>
+   <a href="https://yeonjin719.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Yeonjin-111111?style=flat&logo=About.me&logoColor=fff"
+  alt="Yeonjin's Portfolio"/>
+  </a>
 </div>
 
 ---
