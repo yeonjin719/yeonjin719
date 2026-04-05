@@ -138,7 +138,7 @@
       <td>Frontend</td>
     </tr>
     <tr>
-      <td>2026.03 ~ </td>
+      <td>2026.03 ~ </td> 
       <td><a href="https://github.com/yeonjin719/eHelper"><b>eHelper</b></a></td>
       <td>eCampus 구글 확장 프로그램</td>
       <td>Software Developer</td>
