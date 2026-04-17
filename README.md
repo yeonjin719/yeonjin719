@@ -1,6 +1,5 @@
 <!-- Intro -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="110" height="110" alt="Waving Hand"/>
   <h3>안녕하세요! 👋 성장하는 개발자 <b>김연진</b>입니다 🌿</h3>
   <p><i>꾸준히 배우고, 만들어가며 성장하고 있습니다.</i></p>
 </div>
