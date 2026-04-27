@@ -154,8 +154,4 @@
   <br/><br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjin719&theme=github_dark" width="33%" alt="Repos Per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeonjin719&theme=github_dark" width="33%" alt="Stats Card"/>
-  <br/><br/>
-  
-  ![Yeonjin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yeonjin719&bg_color=000000&icon_color=4C8EDA&title_color=82AAFF&text_color=D8DEE9)
-
 </div>
