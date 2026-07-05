@@ -149,8 +149,12 @@
 ## 💙 GitHub Stats
 
 <div align="center">
-  <img width="72%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonjin719&theme=github_dark" alt="Profile Details"/>
+  
+  [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBqCYEA)](https://www.git-ranker.com)
+  
+  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonjin719&theme=github_dark" alt="Profile Details"/>
   <br/><br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjin719&theme=github_dark" width="33%" alt="Repos Per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeonjin719&theme=github_dark" width="33%" alt="Stats Card"/>
+
 </div>
