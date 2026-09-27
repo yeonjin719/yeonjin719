@@ -1,161 +1,46 @@
-<!-- Intro -->
 <div align="center">
-  <h3>안녕하세요! 👋 성장하는 개발자 <b>김연진</b>입니다 🌿</h3>
-  <p><i>꾸준히 배우고, 만들어가며 성장하고 있습니다.</i></p>
+
+# 안녕하세요, 김연진입니다 👋
+
+디테일은 꼼꼼하게, 과정은 즐겁게.<br>
+밝고 긍정적인 에너지로 함께 답을 찾아가는 프론트엔드 개발자입니다.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://yeonjin719.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yeonjin719)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyj0719@gmail.com)
+
 </div>
 
-<br/>
+## 🌱 About Me
 
-<!-- Highlight Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-E34C26?style=for-the-badge&logo=react&logoColor=fff" alt="Frontend Leader Badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-5C8FFF?style=for-the-badge&logo=python&logoColor=fff" alt="Data Science Badge"/>
-  <img src="https://img.shields.io/badge/OSS-A371F7?style=for-the-badge&logo=github&logoColor=fff" alt="OSS Badge"/>
-</div>
-
----
-## 📮 Connect
-
-<div align="center">
-  <a href="mailto:kyj0719@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kyj0719%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff" alt="Email Badge"/>
-  </a>
-  <a href="https://velog.io/@yeonjin719" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-yeonjin719-20C997?style=flat&logo=velog&logoColor=fff" alt="Velog Badge"/>
-  </a>
-   <a href="https://yeonjin719.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Yeonjin-111111?style=flat&logo=About.me&logoColor=fff"
-  alt="Yeonjin's Portfolio"/>
-  </a>
-</div>
-
----
-## ✨ Spotlight
-
-| 🚀 UMC WEB 중앙/교내 파트장 | 🌱 Open Source & Accessibility | 🛠️ 실전 프로젝트 리딩 |
-|----------------------------------|--------------------------------|------------------------|
-| 8기부터 9기까지 WEB 파트를 이끌며 커리큘럼 설계와 리크루팅 시스템 구축을 주도하고 있습니다. | 색맹 컬러 접근성 개선 라이브러리 **Colbrush**를 개발하며, 오픈소스 기여와 접근성 개선에 꾸준히 관심을 가지고 있습니다. (📦 3,000+ downloads) | UMC Recruiting Service, WithTime 등 실제 사용자 기반 서비스를 설계하고 프론트엔드를 리딩했습니다. |
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <th align="center">Frontend</th>
-      <th align="center">Web Basics</th>
-      <th align="center">Languages</th>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind&perline=5" alt="Frontend Stack" height="52"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css&perline=2" alt="Web Basics" height="52"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py,java,c,cpp&perline=4" alt="Languages" height="52"/></td>
-    </tr>
-    <tr>
-      <th align="center">Collaboration</th>
-      <th align="center">Open Source</th>
-      <th align="center">Testing & QA</th>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord,figma,notion&perline=4" alt="Collaboration Tools" height="52"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=npm,github&perline=2" alt="Open Source Tools" height="52"/></td>
-      <td align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=playwright,cypress&perline=2" alt="Playwright Icon" height="52"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
+- 작동하는 것에서 멈추지 않고, 작은 디테일까지 살펴 완성도를 높입니다.
+- 막히는 순간에도 안 되는 이유보다 가능한 방법을 먼저 찾습니다.
+- 밝게 의견을 나누고 지식을 공유하며 함께 성장하는 팀을 좋아합니다.
+<br />
 
 ## 📝 Experience
 
-<div align="center">
-  <table>
-    <tr>
-      <th>기간</th>
-      <th>내용</th>
-    </tr>
-    <tr><td>2022.08</td><td>🏅 Elastic 데이터콘서트 경진대회 <b>TOP 4</b></td></tr>
-    <tr><td>2024.01 ~ 02</td><td>Data Science Projects 2024 수료</td></tr>
-    <tr><td>2024.06</td><td>ADsP 취득</td></tr>
-    <tr><td>2024.09 ~ 2025.02</td><td>🌐 UMC 7기 WEB 파트 챌린저</td></tr>
-    <tr><td>2025.03 ~ 2025.08</td><td>🌐 UMC 8기 WEB 중앙/교내 파트장</td></tr>
-    <tr><td>2025.09 ~ 2026.02</td><td>🌐 UMC 9기 WEB 중앙/교내 파트장</td></tr>
-    <tr><td>2025.12.05</td><td>🏅 오픈소스 개발자대회 <b>에프에이리눅스(주) 대표상 수상</b></td></tr>
-    <tr><td>2026.07.21 ~</td><td>넛지헬스케어 캐시워크 팀워크 프론트엔드 인턴</b></td></tr>
-  </table>
-</div>
+- **넛지헬스케어** 프론트엔드 인턴 (2026.07 — 현재)
+- **UMC 8·9기** WEB 중앙/교내 파트장 (2025.03 — 2026.02)
+- **오픈소스 개발자대회** 에프에이리눅스 대표상 (2025)
+- **Elastic 데이터콘서트** Top 4 (2022)
+<br />
 
----
+## 🚀 Featured Projects
 
-## 💻 Projects
+| Project | Description | Role |
+| --- | --- | --- |
+| [Colbrush](https://github.com/2025-OSDC/colbrush) | 색각 이상 사용자를 위한 컬러 접근성 라이브러리 | OSS Developer |
+| [UMC Recruiting Service](https://github.com/UMC-PRODUCT/umc-product-web) | UMC 연합동아리 리크루팅 서비스 | Frontend Lead |
+| [Calio](https://github.com/2026-Capstone-Project/FrontEnd) | AI 개인 비서 웹 서비스 | Frontend |
+| [eHelper](https://github.com/yeonjin719/eHelper) | 상명대학교 eCampus 브라우저 확장 프로그램 | Software Developer |
+<br />
 
-<div align="center">
-  <table>
-    <tr>
-      <th>기간</th>
-      <th>프로젝트</th>
-      <th>내용</th>
-      <th>역할</th>
-    </tr>
-    <tr>
-      <td>2024.09 ~ 2024.12</td>
-      <td><a href="https://github.com/SMUMC-7th/Team-C-FE"><b>청년돋움</b></a></td>
-      <td>청년 맞춤 정책 추천 서비스</td>
-      <td>[FE Leader] Frontend</td>
-    </tr>
-    <tr>
-      <td>2024.12 ~ 2025.02</td>
-      <td><a href="https://github.com/QASTUDIODEV"><b>QASTUDIO</b></a></td>
-      <td>시나리오 기반 QA 자동화 서비스</td>
-      <td>Frontend</td>
-    </tr>
-    <tr>
-      <td>2025.06 ~ 2025.08</td>
-      <td><a href="https://github.com/WithTime12/WithTimeFE"><b>WithTime</b></a></td>
-      <td>AI기반 데이트코스 추천 서비스</td>
-      <td>[FE Leader] Frontend</td>
-    </tr>
-    <tr>
-      <td>2025.06 ~ 2025.11</td>
-      <td><a href="https://github.com/2025-OSDC/colbrush"><b>Colbrush</b></a></td>
-      <td>색맹 컬러 접근성 개선 라이브러리 (오픈소스)</td>
-      <td>Frontend, OSS Developer</td>
-    </tr>
-    <tr>
-      <td>2025.12 ~ 2026.03</td>
-      <td><a href="https://github.com/UMC-PRODUCT/umc-product-web"><b>UMC WEB Product</b></a></td>
-      <td>UMC 연합동아리 Recruiting Service</td>
-      <td>[FE Leader] Frontend</td>
-    </tr>
-    <tr>
-      <td>2025.12 ~ </td>
-      <td><a href="https://github.com/2026-Capstone-Project/FrontEnd"><b>Capstone Project - Calio</b></a></td>
-      <td>AI 개인 비서 웹 서비스</td>
-      <td>Frontend</td>
-    </tr>
-    <tr>
-      <td>2026.03 ~ </td> 
-      <td><a href="https://github.com/yeonjin719/eHelper"><b>eHelper</b></a></td>
-      <td>eCampus 구글 확장 프로그램</td>
-      <td>Software Developer</td>
-    </tr>
-  </table>
-</div>
+## 🛠 Tech Stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,html,css" alt="Frontend: TypeScript, JavaScript, React, Redux, Tailwind CSS, HTML and CSS" />
+</p>
 
-## 💙 GitHub Stats
-
-<div align="center">
-  
-  [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBqCYEA)](https://www.git-ranker.com)
-  
-  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonjin719&theme=github_dark" alt="Profile Details"/>
-  <br/><br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeonjin719&theme=github_dark" width="33%" alt="Repos Per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeonjin719&theme=github_dark" width="33%" alt="Stats Card"/>
-
-</div>
+- **Testing:** Playwright, Cypress
+- **Collaboration:** GitHub, Figma, Notion
